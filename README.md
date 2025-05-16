@@ -1,3 +1,5 @@
+![Banner do projeto](banner.png)
+
 # Análise de Dados - Tendências de Duração e Popularidade no Spotify Brasil (2017–2024)
 
 Este projeto analisa os padrões de popularidade e duração de faixas nas paradas do Spotify Brasil entre 2017 e 2024, com foco em como o mercado fonográfico e o comportamento de consumo têm evoluído.
